@@ -24,4 +24,6 @@ Push_swap emphasizes the importance of writing efficient, clean, and well-struct
     make
     ```
 3. Run `./push_swap {list_of_numbers}`
-   
+    ```bash
+    ./push_swap 1 3 2 5 4
+    ```
