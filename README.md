@@ -8,6 +8,6 @@ This program generates a sequence of commands to sort a list of integers. The av
 ## Checker: 
 This is a separate program that takes the list of commands outputted by push_swap and the initial list of integers to verify if the result is sorted correctly.
 
-###
+---
 Push_swap emphasizes the importance of writing efficient, clean, and well-structured code. It also serves as an introduction to algorithmic optimization.
 
