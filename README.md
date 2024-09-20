@@ -4,9 +4,10 @@ Push_swap is a project designed to test algorithmic thinking, problem-solving, a
 
     Push_swap: This program generates a sequence of commands to sort a list of integers. 
     The available operations include pushing elements between two stacks (push), rotating 
-    stacks (rotate), reversing stack rotations (reverse rotate), and swapping the first two elements of a stack (swap).
-    The challenge is to use these operations optimally. The program required the implemetation of a cost dependant algorithm
-    to define the most efficient way to sort elements in a stack.
+    stacks (rotate), reversing stack rotations (reverse rotate), and swapping the first two
+    elements of a stack (swap).
+    The challenge is to use these operations optimally. The program required the implemetation 
+    of a cost dependant algorithm to define the most efficient way to sort elements in a stack.
 
     Checker: This is a separate program that takes the list of commands outputted by push_swap
     and the initial list of integers to verify if the result is sorted correctly.
