@@ -23,4 +23,5 @@ Push_swap emphasizes the importance of writing efficient, clean, and well-struct
     cd 42_push_swap
     make
     ```
+3. Run `./push_swap {list_of_numbers}
    
