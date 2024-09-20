@@ -11,3 +11,10 @@ Push_swap is a project designed to test algorithmic thinking, problem-solving, a
 ---
 Push_swap emphasizes the importance of writing efficient, clean, and well-structured code. It also serves as an introduction to algorithmic optimization.
 
+---
+# To run:
+1. Clone repository
+    git clone git@github.com:mjorgecruz/42_push_swap.git
+
+2. Run make
+    
