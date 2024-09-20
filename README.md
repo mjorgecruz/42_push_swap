@@ -14,7 +14,13 @@ Push_swap emphasizes the importance of writing efficient, clean, and well-struct
 ---
 # To run:
 1. Clone repository
+    ```bash
     git clone git@github.com:mjorgecruz/42_push_swap.git
+    ```
 
-2. Run make
-    
+2. Run `make`
+    ```bash
+    cd 42_push_swap
+    make
+    ```
+   
